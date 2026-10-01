@@ -1,0 +1,207 @@
+{
+    "T-101": {
+        "block": "TANK_VERT",
+        "pos": [
+            10,
+            40
+        ],
+        "type": "Tank",
+        "port_sizes": {
+            "inlet": "4\"",
+            "outlet": "4\"",
+            "top": "-",
+            "bottom": "-"
+        }
+    },
+    "LAL-101": {
+        "block": "INSTRUMENT",
+        "pos": [
+            0,
+            35
+        ],
+        "type": "Alarm",
+        "port_sizes": {
+            "right": "-"
+        }
+    },
+    "LT-101": {
+        "block": "INSTRUMENT",
+        "pos": [
+            0,
+            75
+        ],
+        "type": "Sensor",
+        "port_sizes": {
+            "right": "-",
+            "top": "-"
+        }
+    },
+    "LIC-101": {
+        "block": "INSTRUMENT_PANEL",
+        "pos": [
+            0,
+            95
+        ],
+        "type": "Controller",
+        "port_sizes": {
+            "bottom": "-",
+            "right": "-"
+        }
+    },
+    "V-101A": {
+        "block": "VALVE_GATE",
+        "pos": [
+            40,
+            60
+        ],
+        "type": "Valve_Isolation",
+        "port_sizes": {
+            "inlet": "4\"",
+            "outlet": "4\""
+        }
+    },
+    "P-101A": {
+        "block": "PUMP_CENTRIFUGAL",
+        "pos": [
+            60,
+            55
+        ],
+        "type": "Pump",
+        "port_sizes": {
+            "inlet": "4\"",
+            "outlet": "4\""
+        }
+    },
+    "V-102A": {
+        "block": "VALVE_CHECK",
+        "pos": [
+            80,
+            70
+        ],
+        "type": "Valve_Check",
+        "port_sizes": {
+            "inlet": "4\"",
+            "outlet": "4\""
+        }
+    },
+    "V-101B": {
+        "block": "VALVE_GATE",
+        "pos": [
+            40,
+            20
+        ],
+        "type": "Valve_Isolation",
+        "port_sizes": {
+            "inlet": "4\"",
+            "outlet": "4\""
+        }
+    },
+    "P-101B": {
+        "block": "PUMP_CENTRIFUGAL",
+        "pos": [
+            60,
+            15
+        ],
+        "type": "Pump",
+        "port_sizes": {
+            "inlet": "4\"",
+            "outlet": "4\""
+        }
+    },
+    "V-102B": {
+        "block": "VALVE_CHECK",
+        "pos": [
+            80,
+            30
+        ],
+        "type": "Valve_Check",
+        "port_sizes": {
+            "inlet": "4\"",
+            "outlet": "4\""
+        }
+    },
+    "PSV-101": {
+        "block": "VALVE_SAFETY",
+        "pos": [
+            100,
+            85
+        ],
+        "type": "Valve_Safety",
+        "port_sizes": {
+            "inlet": "4\"",
+            "outlet": "4\""
+        }
+    },
+    "PT-101": {
+        "block": "INSTRUMENT",
+        "pos": [
+            110,
+            75
+        ],
+        "type": "Sensor",
+        "port_sizes": {
+            "bottom": "-"
+        }
+    },
+    "F-101": {
+        "block": "FILTER",
+        "pos": [
+            120,
+            45
+        ],
+        "type": "Filter",
+        "port_sizes": {
+            "inlet": "4\"",
+            "outlet": "4\""
+        }
+    },
+    "PT-102": {
+        "block": "INSTRUMENT",
+        "pos": [
+            150,
+            75
+        ],
+        "type": "Sensor",
+        "port_sizes": {
+            "bottom": "-"
+        }
+    },
+    "FT-101": {
+        "block": "INSTRUMENT",
+        "pos": [
+            170,
+            75
+        ],
+        "type": "Sensor",
+        "port_sizes": {
+            "bottom": "-"
+        }
+    },
+    "FCV-101": {
+        "block": "VALVE_CONTROL",
+        "pos": [
+            180,
+            50
+        ],
+        "type": "Valve",
+        "port_sizes": {
+            "inlet": "4\"",
+            "outlet": "4\"",
+            "signal": "-"
+        }
+    },
+    "T-102": {
+        "block": "TANK_VERT",
+        "pos": [
+            220,
+            40
+        ],
+        "type": "Tank",
+        "port_sizes": {
+            "inlet": "4\"",
+            "outlet": "4\"",
+            "top": "-",
+            "bottom": "-"
+        }
+    }
+}
